@@ -20,6 +20,16 @@
     margin: 0px;
     padding: 0px;
 }
+@media (max-width: 600px) {
+    main {
+        padding: 10px;
+    }
+    header {
+        padding: 20px;
+    }
+    nav {
+        padding: 5px 10px;
+    }
 
 body{
     background-color: var(--cor0);
