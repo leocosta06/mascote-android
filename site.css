@@ -20,12 +20,14 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    max-height: 1000px;
 }
 
 
 body{
     background-color: var(--cor0);
     font-family: var(--fote-padrao);
+    
 }
 main p{ 
     margin: 15px 0px;
